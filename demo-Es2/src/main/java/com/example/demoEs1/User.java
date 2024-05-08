@@ -10,12 +10,4 @@ public class User {
         this.provincia = provincia;
         this.saluto = "Ciao " + nome + ", com'è il tempo in " + provincia + "?";
     }
-
-    @Override
-    public String toString() {
-        return "User{" +
-                "nome='" + nome + '\'' +
-                ", provincia='" + provincia + '\'' +
-                '}';
-    }
 }
