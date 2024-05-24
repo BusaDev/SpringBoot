@@ -12,5 +12,4 @@ spring:
     jackson:
         serialization:
             fail-on-empty-beans: false
-    application:
-        name: demo-song-java-24
+
